@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Rodrigo Abade
 
-<!--
-**Abade26/Abade26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Desenvolvedor Backend Júnior**, com foco em **.NET e C#**, criando aplicações web e APIs utilizando boas práticas de desenvolvimento.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
+- .NET / C#
+- ASP.NET MVC
+- Entity Framework Core
+- SQL Server
+- Angular
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 O que você encontra aqui
+- Projetos backend com .NET
+- APIs REST
+- Aplicações web com ASP.NET MVC
+- Integração com banco de dados SQL Server
+
+## 📫 Contato
+- LinkedIn: [Rodrigo Abade](https://www.linkedin.com/in/rodrigo-abade/)
+- Email: (rodrigoabadedev@gmail.com)
