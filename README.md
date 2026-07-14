@@ -7,8 +7,11 @@ Desenvolvedor Backend **.NET**, com experiência prática em sistemas corporativ
 ## 🛠️ Tecnologias
 
 **Back-end:** C# · .NET 6 · .NET Framework · ASP.NET Core · ASP.NET MVC · ASP.NET WebForms
+
 **Dados:** Entity Framework Core · NHibernate · Fluent NHibernate · SQL Server · LINQ · QueryOver
+
 **Integração & Automação:** Windows Worker Service · Active Directory / LDAP
+
 **Outros:** Angular · Git / GitHub · Docker *(em aprendizado)*
 
 ---
